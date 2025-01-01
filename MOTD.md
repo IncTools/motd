@@ -9,7 +9,7 @@
 5. Игрок имеет право продолжить бой с другим игроком выбежавшим из FFA зоны, которому он успел нанести урон за 10 секунд до того как он успел покинуть FFA зону
 
 # Discord
-![](https://discord.gg/nBrKtU6DpZ)
+[Обычная ссылка с title](https://www.google.com "Сайт Google")
 
 # Карта
 ![](https://github.com/user-attachments/assets/af2d1882-8e8f-46a9-98af-3ad7109a14c4)
