@@ -8,4 +8,4 @@
 
 
 # Легенда
-![Описание изображения (альтернативный текст)]([https://i.imgur.com/dfZ76Ge.png](https://i.imgur.com/dFZ37bG.jpeg))
+![Описание изображения (альтернативный текст)](https://i.imgur.com/dFZ37bG.jpeg)
