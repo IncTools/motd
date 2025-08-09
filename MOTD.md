@@ -8,4 +8,4 @@
 
 
 # Легенда
-![]([https://i.imgur.com/a/w18ZLUf](https://i.imgur.com/dFZ37bG.jpeg))
+![](https://i.imgur.com/a/w18ZLUf](https://i.imgur.com/dFZ37bG.jpeg)
