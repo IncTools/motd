@@ -8,4 +8,4 @@
 
 
 # Легенда
-![](<img width="1536" height="1024" alt="Патрего 3" src="https://github.com/user-attachments/assets/ac491847-9766-4174-9266-818fc36835f6" />)
+![](https://imgur.com/a/wI8ZLUP)
