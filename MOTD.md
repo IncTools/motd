@@ -9,4 +9,4 @@
 
 
 # Легенда Mr.Patrego
-![Описание изображения (альтернативный текст)](https://i.imgur.com/dFZ37bG.jpeg)
+![()](https://i.imgur.com/dFZ37bG.jpeg)
